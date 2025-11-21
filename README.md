@@ -7,7 +7,7 @@ The end goal is a **holographic-style AI persona** that can see you, talk to you
 
 ---
 
-## Current Features
+## Features
 - Raspberry Pi MagicMirror² installation  
 - Custom dark theme and layout  
 - Core modules (clock, weather, compliments, system info)  
