@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/ArtistRendering.png" width="600" alt="Magic Mirror Concept Image">
+</p>
+
 # Magic Mirror
 
 This repository documents my personal **MagicMirror²** build — a Raspberry Pi–powered smart mirror with custom modules, hardware tweaks, and a long-term plan for full AI integration. This project is part hardware, part software, and part experimentation in human–computer interaction.
